@@ -1,5 +1,4 @@
 👋 Hey, I’m Afshan! 💻 | Web Dev Enthusiast & Aspiring AI Explorer
-Here’s a bit about me:
 
 🤓 I learn best by doing (and failing, because mistakes are part of the journey).
 
