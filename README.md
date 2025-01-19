@@ -9,9 +9,6 @@ Here’s a bit about me:
 
 ✨ AI + Web Dev Projects: Experimenting with OpenAI APIs and TensorFlow.js for fun, intelligent features.
 
-🌐 Portfolio: Building a portfolio that screams "creative, fun, and techy" (because first impressions matter, right?).
-
-
 🌍 Let’s Connect, I love meeting new people and sharing ideas! If you’re into tech or AI, hit me up:
 
 
