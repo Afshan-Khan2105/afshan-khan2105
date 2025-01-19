@@ -1,14 +1,6 @@
 👋 Hey, I’m Afshan! 💻 | Web Dev Enthusiast & Aspiring AI Explorer
 Here’s a bit about me:
 
-Frontend: I love building responsive, dynamic, and visually delightful web experiences using React, JavaScript, and good ol’ HTML & CSS.
-
-Backend: Slowly but surely mastering Node.js, Express, and the art of APIs.
-
-AI: Currently exploring ways to make websites smarter with AI—because why not add a brain to the beauty?
-
-🎨 I have a thing for designing in Figma and making cool visuals in Canva.
-
 🤓 I learn best by doing (and failing, because mistakes are part of the journey).
 
 🎮 When I’m not coding, you’ll find me playing badminton, doodling, hitting the gym, or bingeing something tech-y.
