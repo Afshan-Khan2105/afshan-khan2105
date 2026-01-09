@@ -2,7 +2,7 @@
 
 🤓 I learn best by doing (and failing, because mistakes are part of the journey).
 
-🎮 When I’m not coding, you’ll find me playing badminton, doodling, hitting the gym, or bingeing something tech-y.
+🎮 When I’m not coding, you’ll find me playing, doodling, hitting the gym, or bingeing something tech-y.
 
 📈 Here’s a peek at what I’m working on and learning:
 
@@ -13,4 +13,4 @@
 
 🐦 [Twitter](https://x.com/afshannkhan)
 💼 [LinkedIn](https://www.linkedin.com/in/afshan-khan-/)
-📸 [Instagram](https://www.instagram.com/afsha72_/)
+📸 [Instagram](https://www.instagram.com/afsha.k._/)
